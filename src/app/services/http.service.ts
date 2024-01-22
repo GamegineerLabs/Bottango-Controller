@@ -6,7 +6,6 @@ import {from, of} from 'rxjs';
   providedIn: 'root'
 })
 export class HttpService {
-  //url = "https://2f42-68-99-246-114.ngrok-free.app/Animations/"
   url = ""
   animationsString = '/Animations/';
   playbackString = '/PlaybackState/';
